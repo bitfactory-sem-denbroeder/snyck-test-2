@@ -1,0 +1,33 @@
+{
+    "name": "laravel/laravel",
+    "description": "The Laravel Framework.",
+    "keywords": ["framework", "laravel"],
+    "license": "MIT",
+    "type": "project",
+    "require": {
+        "php": "^7.3.0",
+        "albertcht/invisible-recaptcha": "^1.8",
+        "barryvdh/laravel-debugbar": "^3.1",
+        "carbon-cli/carbon-cli": "^1.2",
+        "facade/ignition": "^1.4",
+        "fideloper/proxy": "^4.0",
+        "fzaninotto/faker": "^1.8",
+        "globalcitizen/php-iban": "^2.6",
+        "guzzlehttp/guzzle": "~6.0",
+        "kylekatarnls/laravel-carbon-2": "^1.0.0",
+        "laravel/framework": "^6.0",
+        "laravel/passport": "~8.0",
+        "laravel/tinker": "~1.0",
+        "league/flysystem": "^1.1.4",
+        "mollie/laravel-mollie": "^2.0",
+        "nesbot/carbon": "^2.27.0",
+        "spatie/data-transfer-object": "^1.13"
+    },
+    "config": {
+        "preferred-install": "dist",
+        "sort-packages": true,
+        "platform": {
+            "php": "7.3.0"
+        }
+    }
+}
