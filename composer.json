@@ -14,7 +14,8 @@
         "predis/predis": "^1.1",
         "simplesoftwareio/simple-qrcode": "~1",
         "thujohn/twitter": "~2.0",
-        "watson/rememberable": "^3.0"
+        "watson/rememberable": "^3.0",
+        "facade/ignition":">= 1.4,< 2.0"
     },
     "config": {
         "preferred-install": "dist",
