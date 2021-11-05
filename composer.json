@@ -15,7 +15,8 @@
         "simplesoftwareio/simple-qrcode": "~1",
         "thujohn/twitter": "~2.0",
         "watson/rememberable": "^3.0",
-        "facade/ignition":">= 1.4,< 2.0"
+        "facade/ignition":">= 1.4,< 2.0",
+        "codeception/codeception": "~2.4.5"
     },
     "config": {
         "preferred-install": "dist",
