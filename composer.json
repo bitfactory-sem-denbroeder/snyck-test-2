@@ -6,15 +6,6 @@
     "type": "project",
     "require": {
         "php": "^7.3",
-        "barryvdh/laravel-dompdf": "^0.8.2",
-        "google/apiclient": "^2.0",
-        "intervention/image": "^2.3",
-        "laravel/framework": "^6.0",
-        "league/flysystem-sftp": "^1.0",
-        "predis/predis": "^1.1",
-        "simplesoftwareio/simple-qrcode": "~1",
-        "thujohn/twitter": "~2.0",
-        "watson/rememberable": "^3.0",
         "facade/ignition":">= 1.4,< 2.0",
         "codeception/codeception": "~2.4.5"
     },
